@@ -1,3 +1,10 @@
+```
+git init  
+git remote add origin (url your project you can see url in repository github you created first time)  
+git add .  
+git commit -m "commit message"  
+git push -u origin master
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
